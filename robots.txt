@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lexplab.github.io/sitemap.html.gz
+Sitemap: https://lexplab.github.io/app/sitemap.html.gz
+Sitemap: https://lexplab.github.io/assets/sitemap.html.gz
+Sitemap: https://lexplab.github.io/css/sitemap.html.gz
+Sitemap: https://lexplab.github.io/data/sitemap.html.gz
+Sitemap: https://lexplab.github.io/includes/sitemap.html.gz
+Sitemap: https://lexplab.github.io/item/sitemap.html.gz
+Sitemap: https://lexplab.github.io/src/sitemap.html.gz
